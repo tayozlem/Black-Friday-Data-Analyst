@@ -1,6 +1,3 @@
-Here’s a detailed and professional README file tailored for the **Black Friday Data Analysis** project on GitHub:
-
----
 
 # **Black Friday Data Analysis**
 
